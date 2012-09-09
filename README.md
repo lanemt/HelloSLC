@@ -1,7 +1,7 @@
 HelloSLC
 ========
 
-A starter project to connect to SLC written with node.js
+A starter project to connect to SLC written with node.js.  This project will enable to you get up and running on the SLC platform with a sample tool that handles oauth.
 
 
 To Run
